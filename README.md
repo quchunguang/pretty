@@ -6,6 +6,12 @@ A tool for common use of convert structed (xml, json etc.) data to unix text for
 Install
 =======
 
+Make sure you have installed golang and export $GOPATH/bin to $PATH.
+
+```sh
+go get github.com/quchunguang/pretty
+```
+
 Usage
 =====
 
