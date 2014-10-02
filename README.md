@@ -1,8 +1,8 @@
 pretty
 ======
 
-**Pretty** is a unix-style text format designed for display structed data.
-**Pretty** is a tool for common use of convert structed (xml, json etc.) data to pretty format.
+* **Pretty** is a unix-style text format designed for display structed data.
+* **Pretty** is a tool for common use of convert structed (xml, json etc.) data to pretty format.
 
 But, why we need a new text format? we have dsv, rfc 822, Cookie-Jar, Record-Jar, xml, ini, ...
 
