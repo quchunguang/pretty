@@ -13,7 +13,7 @@ But, why we need a new text format? we have dsv, rfc 822, Cookie-Jar, Record-Jar
 * There is already many software (especially on linux) generate structed data can be seen as **pretty**.
 
 Install
-=======
+-------
 
 Make sure you have installed golang and export $GOPATH/bin to $PATH.
 
@@ -22,7 +22,7 @@ go get github.com/quchunguang/pretty
 ```
 
 Usage
-=====
+-----
 
 ```sh
 pretty test.xml | tgrep '$1~/US/ $2~/LA/'
